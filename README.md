@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=twosugar)]()
+puppeteer学习笔记
