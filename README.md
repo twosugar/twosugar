@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 [puppeteer学习笔记](https://github.com/twosugar/puppeteer-note)
 
 [自动生成骨架屏方案🤔](https://github.com/twosugar/easy-skeleton)
+
+[前端监控日志上报📝]()  即将开始
