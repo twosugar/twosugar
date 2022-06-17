@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[puppeteer学习笔记](https://github.com/twosugar/puppeteer-note)
 
 [vscode插件，中文变量快速转英文🏷️](https://github.com/twosugar/chinese-to-english/blob/master/README.md)
+
+[移除多余css,优化css文件体积🌹](https://github.com/twosugar/remove-unusecss-site)
 
 [自动生成骨架屏方案🤔](https://github.com/twosugar/easy-skeleton)
 
