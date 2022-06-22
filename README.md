@@ -23,14 +23,13 @@ Here are some ideas to get you started:
 
 [全自动图片懒加载]()  即将开始
 
-[前端监控日志上报📝]()  即将开始
+[rrweb前端监控日志上报📝](https://github.com/twosugar/log-playback)  即将开始
 
-[rrweb前端录屏]()  即将开始
 
-[WebAssembly]()
+[WebAssembly]()即将开始
 
-[lerna]() 组建库搭建
+[lerna]() 组建库搭建即将开始
 
-[Web Worker]
+[Web Worker]()即将开始
 
-[Service Worker]
+[Service Worker]()即将开始
