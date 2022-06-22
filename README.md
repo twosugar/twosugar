@@ -21,15 +21,15 @@ Here are some ideas to get you started:
 
 [自动生成骨架屏方案🤔](https://github.com/twosugar/easy-skeleton)
 
-[全自动图片懒加载]()  即将开始
+[全自动图片懒加载]()  --即将开始
 
-[rrweb前端监控日志上报📝](https://github.com/twosugar/log-playback)  即将开始
+[rrweb前端监控日志上报📝](https://github.com/twosugar/log-playback)  --进行中👀
 
 
-[WebAssembly]()即将开始
+[WebAssembly]() --即将开始
 
-[lerna]() 组建库搭建即将开始
+[lerna]() 组建库搭建 --即将开始
 
-[Web Worker]()即将开始
+[Web Worker]() --即将开始
 
-[Service Worker]()即将开始
+[Service Worker]() --即将开始
