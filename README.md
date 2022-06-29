@@ -21,10 +21,9 @@ Here are some ideas to get you started:
 
 [自动生成骨架屏方案🤔](https://github.com/twosugar/easy-skeleton)
 
+[rrweb前端监控日志上报📝](https://github.com/twosugar/log-playback)
+
 [全自动图片懒加载]()  --即将开始
-
-[rrweb前端监控日志上报📝](https://github.com/twosugar/log-playback)  --进行中👀
-
 
 [WebAssembly]() --即将开始
 
