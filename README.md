@@ -35,4 +35,3 @@ https://githubunwrapped.com/twosugar
 
 [Service Worker]() --即将开始
 
-[![twosugar](https://github.com/twosugar/twosugar/assets/42201025/d37b2913-b429-4faa-aa15-f4220beeed11)](https://githubunwrapped.com/twosugar)
